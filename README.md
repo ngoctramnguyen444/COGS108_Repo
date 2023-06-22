@@ -11,5 +11,5 @@ Other variables show indications of correlation with instructor recommendation, 
 Tram Nguyen \
 Alexis Cortes \
 Jacob Ma \
-Van Nguyen \ 
+Van Nguyen \
 Samuel Wu
