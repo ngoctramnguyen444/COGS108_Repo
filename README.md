@@ -8,8 +8,8 @@ The average grade students expect exhibits the highest correlation with recommen
 Other variables show indications of correlation with instructor recommendation, but not statistically significant relationships.
 
 ### Team members
-Tram Nguyen
-Alexis Cortes
-Jacob Ma
-Van Nguyen
+Tram Nguyen \
+Alexis Cortes \
+Jacob Ma \
+Van Nguyen \ 
 Samuel Wu
